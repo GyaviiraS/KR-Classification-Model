@@ -1,0 +1,1 @@
+This is a code to create a model for classification of 10 different varietes of robusta coffee. This model was a result of a study to acquire a master of science degree in Information systems fro Uganda martyrs university from August 2021-October 2024.
